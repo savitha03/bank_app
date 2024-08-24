@@ -1,0 +1,15 @@
+export { default as people01 } from "./people01.png";
+export { default as people02 } from "./people02.png";
+export { default as people03 } from "./people03.png";
+export { default as facebook } from "./facebook.svg";
+export { default as instagram } from "./instagram.svg";
+export { default as linkedin } from "./linkedin.svg";
+export { default as twitter } from "./twitter.svg";
+export { default as airbnb } from "./airbnb.png";
+export { default as binance } from "./binance.png";
+export { default as coinbase } from "./coinbase.png";
+export { default as dropbox } from "./dropbox.png";
+export { default as send } from "./send.svg";
+export { default as shield } from "./shield.svg";
+export { default as star } from "./star.svg";
+export { default as arrowUp } from "./arrowUp.svg";
